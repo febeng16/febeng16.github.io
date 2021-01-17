@@ -43,7 +43,9 @@ September 2019 - June 2020
 
 Winter 2019
 
-- We explored a mix of HCI and Gender Studies papers, seeking to understand the various lenses through which gender is understood within wider academia, ask how HCI has operationalized the term, and explore the ways in which the field could directly use gender theorists’ work in understanding the way our designs fit into the world.
+- We explored a mix of HCI and Gender Studies papers, seeking to understand the various lenses through which gender is
+understood within wider academia, ask how HCI has operationalized the term, and explore the ways in which the field could
+directly use gender theorists’ work in understanding the way our designs fit into the world.
 
 **UW EESU** _President, VP of Communications_
 
